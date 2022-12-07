@@ -1,0 +1,9 @@
+sprite FMKTA0, 18, 14{
+    offset 9, 14
+    patch FMKTA0, 0, 0
+}
+
+sprite FMKTB0, 18, 14{
+    offset 9, 14
+    patch FMKTA0, 0, 0{flipy}
+}
