@@ -1,0 +1,1 @@
+GameInfo { 	AddEventHandlers = "FieldMedic_Spawner" } 
