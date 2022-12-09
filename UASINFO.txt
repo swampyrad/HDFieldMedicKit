@@ -1,0 +1,8 @@
+Looting:TenMilRifleman:HDFieldMedicKit
+Looting:TenMilHomeboy:HDFieldMedicKit
+Looting:BrawlerJackboot:HDFieldMedicKit
+Looting:DoomedJackboot:HDFieldMedicKit
+Looting:MinervaZombie:HDFieldMedicKit
+Looting:MeleeZombie:HDFieldMedicKit
+Looting:CombatJackboot:HDFieldMedicKit
+Looting:RiotCopZombie:HDFieldMedicKit
